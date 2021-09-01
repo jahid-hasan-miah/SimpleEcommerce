@@ -1,0 +1,15 @@
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\bin\Debug\net5.0\ECommerceSystem.ProductManaging.deps.json
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\bin\Debug\net5.0\ECommerceSystem.ProductManaging.dll
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\bin\Debug\net5.0\ref\ECommerceSystem.ProductManaging.dll
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\bin\Debug\net5.0\ECommerceSystem.ProductManaging.pdb
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\obj\Debug\net5.0\ECommerceSystem.ProductManaging.csproj.AssemblyReference.cache
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\obj\Debug\net5.0\ECommerceSystem.ProductManaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\obj\Debug\net5.0\ECommerceSystem.ProductManaging.AssemblyInfoInputs.cache
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\obj\Debug\net5.0\ECommerceSystem.ProductManaging.AssemblyInfo.cs
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\obj\Debug\net5.0\ECommerceSystem.ProductManaging.csproj.CoreCompileInputs.cache
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\obj\Debug\net5.0\ECommerceSystem.ProductManaging.dll
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\obj\Debug\net5.0\ref\ECommerceSystem.ProductManaging.dll
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\obj\Debug\net5.0\ECommerceSystem.ProductManaging.pdb
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\bin\Debug\net5.0\ECommerceSystem.DataParse.dll
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\bin\Debug\net5.0\ECommerceSystem.DataParse.pdb
+D:\MvcAndApiProject\ECommerceSystem.Api\ECommerceSystem.ProductManaging\obj\Debug\net5.0\ECommerceSystem.ProductManaging.csproj.CopyComplete

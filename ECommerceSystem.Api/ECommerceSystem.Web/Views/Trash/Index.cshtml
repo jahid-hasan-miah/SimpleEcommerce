@@ -1,0 +1,40 @@
+﻿@model IEnumerable<ECommerceSystem.Web.Models.Product.Product>
+@{ Layout = "_Layout"; ViewBag.Title = "All Products";}
+
+<a class="btn btn-dark" asp-action="Index" asp-controller="Product">Back to Home</a>
+
+<h2>All Trash Products</h2>
+
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead>
+        <tr>
+            <th style="width:350px">Name</th>
+            <th style="width:350px">Price</th>
+            <th style="text-align:center">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.ProductName</td>
+                <td>@r.Price</td>
+                <td style="text-align:center">
+                    <div class="row">
+                        <form style="margin-left:90px" method="post">
+                            <button  type="submit" class="btn btn-primary" asp-controller="Trash" asp-action="RecoverProduct" asp-route-id="@r.Id">
+                                Recover
+                            </button>
+                        </form>
+                        <form class="ml-2" method="post">
+                            <button class="btn btn-danger" type="submit" asp-action="DeleteProduct" asp-controller="Trash" asp-route-id="@r.Id">
+                                Delete Permanently
+                            </button>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
