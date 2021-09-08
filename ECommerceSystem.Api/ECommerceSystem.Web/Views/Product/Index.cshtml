@@ -17,11 +17,14 @@
         @foreach (var r in Model)
         {
         <tr>
-            <td>@r.ProductName</td>
-            <td>@r.Price</td>
+
+                <td><input asp-for="@r.ProductName" /></td>
+                <td><input asp-for="@r.Price" /></td>
+                
+            
             <td style="text-align:center">
                 <div class="row">
-                    <a style="margin-left:120px;width:110px" class="col-2 btn btn-primary" asp-controller="Product" asp-action="EditProduct" asp-route-id="@r.Id">
+                    <a style="margin-left:120px;width:110px" class="col-2 btn btn-primary" type="submit" asp-controller="Product" asp-action="EditProduct" asp-route-id="@r.Id">
                         Edit
                     </a>
                     <form class="ml-2" method="post">

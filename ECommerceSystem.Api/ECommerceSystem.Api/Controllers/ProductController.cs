@@ -17,7 +17,7 @@ namespace ECommerceSystem.Api.Controllers
         {
             var model = new ProductListModel();
             var product = model.Get().ToList();
-            return product;
+            return Ok(product);
         }
 
         // GET api/<ValuesController>/5

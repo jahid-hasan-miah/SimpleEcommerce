@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LKJk9LidP+QEVZmPkhoVIAPDeocZTnFEgun/7AMR9vHXx9lrL0749bfVyu/kt6/Ajqw7cjFnibpf8sN464VbSA==",
+  "dgSpecHash": "kTFJ84EwSLzu8xKqV8yMBK8A/TEGBufzo7YiR0eOITD7JcVTPSqGAwrNFxuEOQkvCd2DVAr19sHpymh5CxHWxQ==",
   "success": true,
   "projectFilePath": "D:\\MvcAndApiProject\\CrudApi\\ECommerceSystem.Api\\ECommerceSystem.Web\\ECommerceSystem.Web.csproj",
   "expectedPackageFiles": [
@@ -97,7 +97,7 @@
     "C:\\Users\\joyh3\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\joyh3\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\joyh3\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\joyh3\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\joyh3\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\joyh3\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\joyh3\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\joyh3\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
